@@ -7,17 +7,8 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="1de86f3b372d8400a69acc31851c33ea26342428">
+        sha1="2e1d8722fb0551f4bb05d8052c19b5298141eabe">
         <dex dex="D:\Data\Belajar\AndroidStudio\CPX\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a64a55bab0cc694d11d21d5021edbc477e009db5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Data\Belajar\AndroidStudio\CPX\app\libs\netty-3.5.9.Final.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="543190a0dc66a66ec02207f3706128f8dfb470b5">
-        <dex dex="D:\Data\Belajar\AndroidStudio\CPX\app\build\intermediates\transforms\dex\debug\folders\1000\2\netty-3.5.9.Final_ecce4204c77602627b2f6f12c6b44e156dc4ddb8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -25,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="fdf8100864b220ed222ce86829a54bd6c5a6c7d4">
+        sha1="4809a659acc929977c07b3dbfa7664664ab90d91">
         <dex dex="D:\Data\Belajar\AndroidStudio\CPX\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aae59455270ddd890aced1d2effae80eeb2c6503\classes.dex" />
     </item>
     <item
@@ -36,6 +27,15 @@
         revision="24.0.3"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
         <dex dex="D:\Data\Belajar\AndroidStudio\CPX\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Data\Belajar\AndroidStudio\CPX\app\libs\netty-3.5.9.Final.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="543190a0dc66a66ec02207f3706128f8dfb470b5">
+        <dex dex="D:\Data\Belajar\AndroidStudio\CPX\app\build\intermediates\transforms\dex\debug\folders\1000\2\netty-3.5.9.Final_ecce4204c77602627b2f6f12c6b44e156dc4ddb8\classes.dex" />
     </item>
 
 </items>

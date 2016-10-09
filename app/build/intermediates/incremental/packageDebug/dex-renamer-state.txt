@@ -1,4 +1,4 @@
-#Sun Oct 09 20:59:01 ICT 2016
+#Sun Oct 09 21:07:05 ICT 2016
 base.0=D\:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aae59455270ddd890aced1d2effae80eeb2c6503
 renamed.1=classes.dex
 renamed.0=classes2.dex

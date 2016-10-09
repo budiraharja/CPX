@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 09 20:59:02 ICT 2016
+#Sun Oct 09 21:07:05 ICT 2016
 60.set=ANDROID_RESOURCE
 52.set=DEX
 53.base=D\:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar

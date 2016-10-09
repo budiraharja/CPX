@@ -1689,7 +1689,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="C:/Android/sdk" />
-    <property name="device.picker.selection" value="41000b30446f917d" />
+    <property name="device.picker.selection" value="4d0084096f59400d" />
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
