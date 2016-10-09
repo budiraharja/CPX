@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_border.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\drawable\\rect_border.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\drawable\\selector_list.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_cpx_drop.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\drawable\\selector_btn_cpx_drop.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\drawable\\selector_btn.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_card.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\drawable\\selector_card.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_cpx_play.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\drawable\\selector_btn_cpx_play.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_selected_border.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\drawable\\rect_selected_border.xml"
+    }
+]

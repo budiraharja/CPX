@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res"/><source path="D:\Data\Belajar\AndroidStudio\CPX\app\build\generated\res\rs\debug"/><source path="D:\Data\Belajar\AndroidStudio\CPX\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\Data\Belajar\AndroidStudio\CPX\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res"><file name="rect_border" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable\rect_border.xml" qualifiers="" type="drawable"/><file name="rect_selected_border" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable\rect_selected_border.xml" qualifiers="" type="drawable"/><file name="selector_btn" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable\selector_btn.xml" qualifiers="" type="drawable"/><file name="selector_btn_cpx_drop" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable\selector_btn_cpx_drop.xml" qualifiers="" type="drawable"/><file name="selector_btn_cpx_play" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable\selector_btn_cpx_play.xml" qualifiers="" type="drawable"/><file name="selector_card" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable\selector_card.xml" qualifiers="" type="drawable"/><file name="selector_list" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable\selector_list.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="card_10_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_10_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_10_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_10_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_10_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_10_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_10_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_10_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_2_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_2_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_2_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_2_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_2_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_2_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_2_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_2_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_3_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_3_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_3_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_3_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_3_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_3_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_3_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_3_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_4_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_4_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_4_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_4_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_4_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_4_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_4_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_4_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_5_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_5_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_5_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_5_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_5_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_5_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_5_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_5_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_6_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_6_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_6_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_6_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_6_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_6_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_6_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_6_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_7_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_7_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_7_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_7_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_7_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_7_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_7_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_7_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_8_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_8_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_8_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_8_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_8_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_8_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_8_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_8_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_9_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_9_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_9_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_9_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_9_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_9_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_9_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_9_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_a_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_a_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_a_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_a_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_a_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_a_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_a_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_a_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_jok_black" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_jok_black.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_jok_red" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_jok_red.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_j_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_j_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_j_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_j_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_j_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_j_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_j_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_j_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_k_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_k_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_k_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_k_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_k_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_k_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_k_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_k_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_q_club" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_q_club.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_q_diamond" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_q_diamond.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_q_heart" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_q_heart.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_q_spade" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_q_spade.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_special" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\card_special.png" qualifiers="xhdpi-v4" type="drawable"/><file name="cpxicon" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\cpxicon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_share_note" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\activity_share_note.xml" qualifiers="" type="layout"/><file name="custom_card" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\custom_card.xml" qualifiers="" type="layout"/><file name="custom_dialog_deckcount" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\custom_dialog_deckcount.xml" qualifiers="" type="layout"/><file name="custom_dialog_edittext" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\custom_dialog_edittext.xml" qualifiers="" type="layout"/><file name="custom_list" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\custom_list.xml" qualifiers="" type="layout"/><file name="custom_list_simple_text" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\custom_list_simple_text.xml" qualifiers="" type="layout"/><file name="custom_list_small" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\custom_list_small.xml" qualifiers="" type="layout"/><file name="custom_list_view" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\custom_list_view.xml" qualifiers="" type="layout"/><file name="fragment_chat" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\fragment_chat.xml" qualifiers="" type="layout"/><file name="fragment_cpx" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\fragment_cpx.xml" qualifiers="" type="layout"/><file name="fragment_main" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\fragment_main.xml" qualifiers="" type="layout"/><file name="fragment_main_connected" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\fragment_main_connected.xml" qualifiers="" type="layout"/><file name="fragment_participant_list" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\fragment_participant_list.xml" qualifiers="" type="layout"/><file name="fragment_setting" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\layout\fragment_setting.xml" qualifiers="" type="layout"/><file name="loose" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\raw\loose.mp3" qualifiers="" type="raw"/><file name="turn_in" path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\raw\turn_in.mp3" qualifiers="" type="raw"/><file path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\values\array.xml" qualifiers=""><string-array name="special_card_action">
+        <item>Exchange Cards</item>
+        <item>Choose Player Turn</item>
+    </string-array><string-array name="ten_card_action">
+        <item>Add (+)</item>
+        <item>Substract (-)</item>
+    </string-array></file><file path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\values\attrs.xml" qualifiers=""><attr name="gravity">
+        
+        <flag name="top" value="0x30"/>
+        
+        <flag name="bottom" value="0x50"/>
+        
+        <flag name="left" value="0x03"/>
+        
+        <flag name="right" value="0x05"/>
+        
+        <flag name="center_vertical" value="0x10"/>
+        
+        <flag name="fill_vertical" value="0x70"/>
+        
+        <flag name="center_horizontal" value="0x01"/>
+        
+        <flag name="fill_horizontal" value="0x07"/>
+        
+        <flag name="center" value="0x11"/>
+        
+        <flag name="fill" value="0x77"/>
+        
+        <flag name="clip_vertical" value="0x80"/>
+        
+        <flag name="clip_horizontal" value="0x08"/>
+    </attr><declare-styleable name="TwoWayGridView">
+        <attr format="dimension" name="horizontalSpacing"/>
+        <attr format="dimension" name="verticalSpacing"/>
+        <attr name="stretchMode">
+            <enum name="none" value="0"/>
+            <enum name="spacingWidth" value="1"/>
+            <enum name="columnWidth" value="2"/>
+            <enum name="spacingWidthUniform" value="3"/>
+        </attr>
+        <attr format="dimension" name="columnWidth"/>
+        <attr format="dimension" name="rowHeight"/>
+        <attr format="integer" min="0" name="numColumns">
+            <enum name="auto_fit" value="-1"/>
+        </attr>
+        <attr format="integer" min="0" name="numRows">
+            <enum name="auto_fit" value="-1"/>
+        </attr>
+        <attr name="gravity"/>
+    </declare-styleable><attr format="reference" name="gridViewStyle"/><declare-styleable name="TwoWayAbsListView">
+         
+        <attr format="color|reference" name="listSelector"/>
+        
+        <attr format="boolean" name="drawSelectorOnTop"/>
+        
+        <attr format="boolean" name="stackFromBottom"/>
+        
+        <attr format="boolean" name="scrollingCache"/>
+        
+        
+        
+        <attr name="transcriptMode">
+            
+            <enum name="disabled" value="0"/>
+            
+            <enum name="normal" value="1"/>
+            
+            <enum name="alwaysScroll" value="2"/>
+        </attr>
+        
+        <attr format="color" name="cacheColorHint"/>
+        
+        
+        
+        <attr format="boolean" name="smoothScrollbar"/>
+
+        
+        <attr name="scrollDirectionPortrait">
+            
+            <enum name="vertical" value="0"/>
+            
+            <enum name="horizontal" value="1"/>
+        </attr>
+        <attr name="scrollDirectionLandscape">
+            
+            <enum name="vertical" value="0"/>
+            
+            <enum name="horizontal" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\values\color.xml" qualifiers=""><color name="background_color">#55a6f1</color><color name="line_color">#79b7f1</color><color name="color_white">#ffffff</color><color name="background_color_header">#03306e</color><color name="background_color_sub_header">#054db0</color><color name="color_black">#000000</color><color name="button_color_disabled">#bad6fd</color><color name="color_red">#990000</color><color name="color_green">#006600</color><color name="button_color">#065dae</color><color name="color_yellow">#f6ff00</color><color name="background_color_darker">#4e9ae0</color><color name="button_color_pressed">#043d72</color><color name="color_lite_green">#00FF00</color></file><file path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="gs_header">48dp</dimen></file><file path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\values\strings.xml" qualifiers=""><string name="prompt_server_ip">Server IP</string><string name="title_chat">Chat %s</string><string name="invalid_card">whoops...invalid card</string><string name="dialog_disconnect">Whoops, Connection is closed</string><string name="bt_ok">OK</string><string name="setting_host">Host ID</string><string name="set_action">Action</string><string name="participant_leave_update_turn">Player list updated, play turn will be choosed randomly</string><string name="select_card">Please select card</string><string name="hint_share">Share note</string><string name="main_title">CPX</string><string name="wait_server_to_start">Waiting host to start the game</string><string name="participant_list_title">Participants (%d)</string><string name="menu_save">Save</string><string name="btn_send">Send</string><string name="btn_connect">Connect</string><string name="error_card_empty">Sorry, we\'re running out of card</string><string name="exchange_cards">Yup, cards exchanged</string><string name="title_settings">Settings</string><string name="rule_deck_count">Deck count: %d</string><string name="btn_share">Become A Host</string><string name="btn_reset">Reset</string><string name="deck_count">Deck Count:</string><string name="status_ok">OK</string><string name="search_available_server">Searching for server...</string><string name="setting_id">Participant ID</string><string name="btn_ok">OK</string><string name="dialog_server_max_connection_reached">Server Maximum connection reached</string><string name="dialog_insert_name_id">Set Your Name </string><string name="et_init_name">Name</string><string name="exchange_invalid">Yo..can\'t exchange to yourself</string><string name="title_cpx">CPX</string><string name="play_joker">Hold tight, we\'re now reversing...</string><string name="last_action">%1$s: %2$s</string><string name="btn_disconnect">Disconnect</string><string name="btn_unshare">Disconnect</string><string name="loose">Whoops, sorry you loose</string><string name="chat_update">[ Chat ] %s</string><string name="menu_load_note_history">Load Notes</string><string name="special_card">Activate Special Card</string><string name="btn_main_client">Join</string><string name="rule_special_card">Special Card: %s</string><string name="btn_start">Let\'s Play!</string><string name="btn_cancel">Cancel</string><string name="participant_update">%s joined</string><string name="different_apk_key">Sorry, you\'re using different apk version</string><string name="welcome_participant">Hey Ho, swipe to the left if you want to Chat with other participant</string><string name="exchange_message">[%s] exchanged your card</string><string name="bt_play">Play</string><string name="hello_world">Hello world!</string><string name="tv_init_name">Please enter your name:</string><string name="game_finish">Hey Ho, it\'s done, scoring now begin</string><string name="title_participant_list">Participant List (%d)</string><string name="btn_restart">Restart Game</string><string name="title_activity_share_note">ShareNoteActivity</string><string name="app_name">CPX</string><string name="bt_cancel">Cancel</string><string name="app_version">Ver %s</string><string name="bt_drop">Drop (%d)</string><string name="btn_refresh">Refresh List of Participant</string><string name="app_name_subtitle">Play Over Wi-Fi</string><string name="btn_save">Save</string><string name="participant_leave">%s leave</string><string name="rule">Game Rule</string><string name="tv_main_connection_wait">Waiting server to start the game...</string><string name="dialog_invalid_connection">Invalid Connection</string><string name="play_alone">Whoops..believe me, you don\'t want to play alone</string><string name="drop_invalid">Errmm..think again</string><string name="no_server_available">No server available</string><string name="drop_value">Dropped: %d</string><string name="btn_main_server">Became A Host</string><string name="your_turn">Hey Ho, it\'s your turn now!</string><string name="player_score">%1$s (%2$d)</string></file><file path="D:\Data\Belajar\AndroidStudio\CPX\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="boldText">
+        <item name="android:textStyle">bold|italic</item>
+    </style><style name="normalText">
+        <item name="android:textStyle">normal</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file></source><source path="D:\Data\Belajar\AndroidStudio\CPX\app\build\generated\res\rs\debug"/><source path="D:\Data\Belajar\AndroidStudio\CPX\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\Data\Belajar\AndroidStudio\CPX\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="TwoWayGridView"><attr format="dimension" name="horizontalSpacing"/><attr format="dimension" name="verticalSpacing"/><attr name="stretchMode">
+            <enum name="none" value="0"/>
+            <enum name="spacingWidth" value="1"/>
+            <enum name="columnWidth" value="2"/>
+            <enum name="spacingWidthUniform" value="3"/>
+        </attr><attr format="dimension" name="columnWidth"/><attr format="dimension" name="rowHeight"/><attr format="integer" min="0" name="numColumns">
+            <enum name="auto_fit" value="-1"/>
+        </attr><attr format="integer" min="0" name="numRows">
+            <enum name="auto_fit" value="-1"/>
+        </attr><attr name="gravity"/></declare-styleable><declare-styleable name="TwoWayAbsListView"><attr format="color|reference" name="listSelector"/><attr format="boolean" name="drawSelectorOnTop"/><attr format="boolean" name="stackFromBottom"/><attr format="boolean" name="scrollingCache"/><attr name="transcriptMode">
+            
+            <enum name="disabled" value="0"/>
+            
+            <enum name="normal" value="1"/>
+            
+            <enum name="alwaysScroll" value="2"/>
+        </attr><attr format="color" name="cacheColorHint"/><attr format="boolean" name="smoothScrollbar"/><attr name="scrollDirectionPortrait">
+            
+            <enum name="vertical" value="0"/>
+            
+            <enum name="horizontal" value="1"/>
+        </attr><attr name="scrollDirectionLandscape">
+            
+            <enum name="vertical" value="0"/>
+            
+            <enum name="horizontal" value="1"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,7 @@
+#Sun Oct 09 20:59:01 ICT 2016
+base.0=D\:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aae59455270ddd890aced1d2effae80eeb2c6503
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a64a55bab0cc694d11d21d5021edbc477e009db5\\classes.dex
+base.1=D\:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a64a55bab0cc694d11d21d5021edbc477e009db5
+file.0=D\:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aae59455270ddd890aced1d2effae80eeb2c6503\\classes.dex

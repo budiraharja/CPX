@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llFragmentMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btShare"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivMainCpx"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/selector_btn"
+        android:padding="10dp"
+        android:text="@string/btn_share"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btConnect"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btShare"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/selector_btn"
+        android:padding="10dp"
+        android:text="@string/btn_connect"
+        android:textColor="@android:color/white" />
+
+    <ImageView
+        android:id="@+id/ivMainCpx"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="20dp"
+        android:layout_marginTop="64dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/cpxicon" />
+
+    <TextView
+        android:id="@+id/tvAppName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tvAppNameSub"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:text="@string/app_name"
+        android:textColor="@android:color/white"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvAppNameSub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ivMainCpx"
+        android:gravity="center_horizontal"
+        android:text="@string/app_name_subtitle"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvAppVersion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="right"
+        android:padding="10dp"
+        android:text="@string/app_name_subtitle"
+        android:textColor="@android:color/white"
+        android:textSize="10dp"
+        android:textStyle="italic" />
+
+</RelativeLayout>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_connected.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\fragment_main_connected.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cpx.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\fragment_cpx.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_participant_list.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\fragment_participant_list.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_deckcount.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\custom_dialog_deckcount.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_list_small.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\custom_list_small.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_list_simple_text.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\custom_list_simple_text.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_card.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\custom_card.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_list_view.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\custom_list_view.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_list.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\custom_list.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_edittext.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\custom_dialog_edittext.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share_note.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\activity_share_note.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\CPX\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    }
+]

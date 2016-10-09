@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llFragmentParticipantList"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/llChatContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/llChatContainer"
+        android:padding="5dp" >
+
+        <ListView
+            android:id="@+id/lvChat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:clickable="false"
+            android:divider="@android:color/darker_gray"
+            android:focusable="false"
+            android:footerDividersEnabled="true"
+            android:listSelector="@null" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/llChatContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/llChatContainer"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <EditText
+            android:id="@+id/etChatInput"
+            android:layout_width="0dp"
+            android:singleLine="true"
+            android:layout_height="match_parent"
+            android:layout_weight="0.75" />
+
+        <Button
+            android:id="@+id/btChatSend"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.25"
+            android:text="@string/btn_send" />
+    </LinearLayout>
+
+</RelativeLayout>
